@@ -1,2 +1,1 @@
 # TechTalentBlog
-# TechTalentBlog
